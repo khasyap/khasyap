@@ -2,7 +2,6 @@
  KHASYAP SURYA SAKETH KONAKALLA
 -->
 <h1 align="center">Hi 👋, I'm KHASYAP SURYA SAKETH KONAKALLA</h1>
-
 <!--
 **khasyap/khasyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
