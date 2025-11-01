@@ -2,7 +2,7 @@
  KHASYAP SURYA SAKETH KONAKALLA
 -->
 <h1 align="center">Hi 👋, I'm KHASYAP SURYA SAKETH KONAKALLA</h1>
-<h3 align="center">A passionate Mean Full Stack and Cyber Security </h3>
+<h3 align="center">A passionate Mean Full Stack Developer and Cyber Security </h3>
 
 - 🔭 I’m currently working on **Mean Full Stack**
 
